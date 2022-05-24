@@ -1,6 +1,6 @@
 # PacManExercise![pacmanpcimage](https://user-images.githubusercontent.com/92131037/169932753-7880ffaa-8231-46c0-8c6e-aa9d0b244f00.png)
 
-
+# Click [here](https://abdulfadel.github.io/PacManExercise/) to view in browser!
 ## Description 
 The PacMan exercise is a great demonstration of how we can use JavaScript to manipulate images on an *html* page by using functions that return an object with random values. *Loading too many PacMen can lead to stability issues on your local machine. Be sure to refresh your browser to reset PacMen!*
 
