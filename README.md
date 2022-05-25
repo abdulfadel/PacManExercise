@@ -19,4 +19,5 @@ The PacMan exercise is a great demonstration of how we can use JavaScript to man
 - Update Background
 - Add audio controls & Background music
 
+# [LICENSE](https://github.com/abdulfadel/PacManExercise/blob/master/LICENSE)
 ![image](https://user-images.githubusercontent.com/92131037/170177214-078711af-a710-46d7-acd0-3c91dd921b22.png)
